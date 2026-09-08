@@ -117,3 +117,4 @@ Make sure you have an active account.
 ## Next steps
 Continue with the installation guide.
 Test
+Implemented review comments.
