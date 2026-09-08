@@ -1,4 +1,5 @@
 - [Getting Started](#getting-started)
+  - [Installation](#installation)
   - [Before you begin](#before-you-begin)
   - [Next steps](#next-steps)
 
@@ -115,3 +116,5 @@ This has context menu
 Make sure you have an active account.
 ## Next steps
 Continue with the installation guide.
+Test
+Implemented review comments.
